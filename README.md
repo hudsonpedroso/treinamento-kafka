@@ -1,4 +1,4 @@
-# Curso de Kafka: Produtores, Consumidores e streams
+ Curso de Kafka: Produtores, Consumidores e streams
 - Utilize Kafka para comunicação assíncrona
 - Aprenda a criar microsserviços com Kafka
 - Entenda as vantagens de Kafka para paralelismo e execução serializada
