@@ -1,1 +1,1 @@
-# treinamento-kafka
+# Curso de Kafka: Produtores, Consumidores e streams
