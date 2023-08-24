@@ -1,0 +1,12 @@
+
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ŸÎ¼ª¢1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°“ú÷üÿÿÿÿ
+U
+java:S6213":Rename this variable to not match a restricted identifier.(´Ÿ•şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íê­…
+S	java:S106"9Replace this use of System.out or System.err by a logger.( éôùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‰‡çüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡ó´şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Óİ~
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒöÁİûÿÿÿÿ

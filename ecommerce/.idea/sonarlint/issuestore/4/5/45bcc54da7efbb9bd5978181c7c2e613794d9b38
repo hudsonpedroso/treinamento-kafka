@@ -1,0 +1,13 @@
+
+h
+java:S2095"KUse try-with-resources or close this "KafkaConsumer" in a "finally" clause.(Ü¼¥Â8ª ï©¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°“ú÷üÿÿÿÿ8ÎŞë©¢1
+\
+java:S6213":Rename this variable to not match a restricted identifier.(´Ÿ•şÿÿÿÿ8± ï©¢1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íê­…8± ï©¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜±˜Éşÿÿÿÿ8² ï©¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‰‡çüÿÿÿÿ8² ï©¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡ó´şÿÿÿÿ8² ï©¢1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Óİ~8³ ï©¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒöÁİûÿÿÿÿ8³ ï©¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ã§ÿÿÿÿÿ8´ ï©¢1
